@@ -1,0 +1,24 @@
+{
+  "name": "generator-snails",
+  "version": "0.0.0",
+  "description": "A generic yeoman generator built for production and awesomeness.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yo",
+    "yeoman",
+    "snails",
+    "generator",
+    "fullstack",
+    "backend",
+    "frontend"
+  ],
+  "author": "Tony Ivanov (telamohn@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.17.0",
+    "q": "^1.0.1"
+  }
+}
